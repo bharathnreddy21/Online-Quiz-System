@@ -1,0 +1,14 @@
+cd Lip2Wav-master
+pip install -r requirements.txt
+pip3 install scikit-build
+pip3 install opencv-python==4.1.1.26
+pip install opencv-contrib-python
+sudo apt-get upgrade
+pip3 install opencv-python==4.1.1.26
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+sudo apt  install curl  # version 7.68.0-1ubuntu2.7
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ pip3 install opencv-python
+pip install -r requirements.txt
+ face_detection/detection/sfd/s3fd.path
+python preprocess.py --speaker_root Dataset/chem --speaker chem
